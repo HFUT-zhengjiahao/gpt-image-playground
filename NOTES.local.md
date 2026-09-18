@@ -17,6 +17,19 @@ git checkout canvas-ui      # 回到画布版
 
 桌面还有一个压缩包快照：`gpt-image-playground-备份-浅色中文版-<日期>.tar.gz`（不含 node_modules）。
 
+## 安全与运维注意点
+
+- **鉴权**：`src/lib/api-auth.ts` 的 `checkPassword()` 是唯一的密码校验入口（images / image-upload /
+  image-delete / images-cleanup / settings / shutdown 六处）。未设 `APP_PASSWORD` 时全部放行（本地自用默认）。
+- **登记表白名单**：`index.json` 丢失后重建时，只登记符合 `\d{13}-\d+.<ext>` 与 `upload-*.<ext>`
+  的文件（`isOwnedFilename`）。把输出目录指向装满私人图片的文件夹时，那些文件永远不会被清理。
+- **回收站**：删除=移动到 `<输出目录>/.trash/<日期>/`，保留天数在设置页配置（1–3650，默认 30）。
+- **局域网访问**：dev server 仍监听所有网卡，方便手机/平板访问。若要收紧，把
+  `scripts/start-playground.sh` 里的 `next dev` 改成 `next dev -H 127.0.0.1`——代价是局域网设备无法访问。
+  `/api/shutdown` 已收紧 Host 精确匹配 + 密码校验。
+- **图片缓存**：`/api/image/<文件名>` 返回 `Cache-Control: immutable`。文件名含创建时间戳且从不原地修改，
+  所以改图必须换文件名，否则浏览器会一直用旧图。
+
 ## 界面结构（画布 / 历史 / 设置）
 
 列表式表单界面已删除，现在是三件套：
