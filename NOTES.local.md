@@ -31,6 +31,16 @@ git checkout canvas-ui      # 回到画布版
 7. **文件生命周期**：`POST /api/images-cleanup` 按「保留列表」清理无人引用的图片；
    历史记录删除前会检查画布引用。
 
+## 参考图数量（多图编辑）
+
+模型本身支持 **16 张**参考图（OpenAI `images.edit` 文档），限制通常来自中转自己的校验层。
+
+实测（2026-09-18）：PackyAPI 文档写「建议一次只上传 1 张」，但实际 **2 张、4 张都能正常转发**，
+所以 `NEXT_PUBLIC_MAX_EDIT_SOURCES` 默认设为 16；换到校验更严的端点时把它调小即可。
+探测脚本：`scripts/test-multi-image.mjs`，20 秒内给出结论。
+
+多张源图时，**蒙版只作用于第一张**（与 OpenAI 行为一致），画布上会提示这一点。
+
 ## 类型检查的坑
 
 `package.json` 里 `typescript` 被 alias 成 `npm:@typescript/typescript6`（TS 6.x），
@@ -44,6 +54,8 @@ git checkout canvas-ui      # 回到画布版
 
 ```bash
 npm run dev              # 开发服务（或双击桌面「启动 GPT Image Playground.command」）
+node scripts/test-multi-image.mjs <base-url> <key> [model] [图A] [图B]
+                         # 探测某个端点是否真的转发多张参考图（编辑接口）
 npm run typecheck        # TS 7 类型检查
 npm run lint             # ESLint（当前 0 error / 0 warning）
 npm run i18n:check       # 校验每个 t('…') 都有中文词条（改文案后必跑）
