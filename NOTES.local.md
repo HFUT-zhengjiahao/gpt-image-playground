@@ -17,6 +17,24 @@ git checkout canvas-ui      # 回到画布版
 
 桌面还有一个压缩包快照：`gpt-image-playground-备份-浅色中文版-<日期>.tar.gz`（不含 node_modules）。
 
+## 界面结构（画布 / 历史 / 设置）
+
+列表式表单界面已删除，现在是三件套：
+
+- **画布**（默认视图）：左侧画布列表 + React Flow 工作台；节点=一次生成/编辑任务
+- **历史记录**：全屏画廊，搜索提示词、按日期分组、详情弹窗（大图/提示词/参数/费用/下载/发送到画布）
+- **设置**（画布左下角齿轮）：图片保存目录、新建节点默认模型/质量、访问密码
+
+相关接口：
+
+| 接口 | 用途 |
+| --- | --- |
+| `GET/PUT /api/settings` | 读写 `outputDir`（可带 `moveExisting` 迁移已有图片）与回收站保留天数 |
+| `GET /api/images-list` | 列出输出目录里的全部图片（用于按磁盘重建历史） |
+| `POST /api/images-cleanup` | 清理无人引用的图片（移入回收站，保留 30 天） |
+
+设置存放在项目根的 `.playground-settings.json`；画布只记录文件名，所以换目录不影响任何画布。
+
 ## 本地改动清单
 
 1. **服务商适配**：走 PackyAPI 中转（`.env.local` 里的 `OPENAI_API_BASE_URL=https://cf.api.fan/v1`）。
