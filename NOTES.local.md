@@ -46,6 +46,8 @@ git checkout canvas-ui      # 回到画布版
 npm run dev              # 开发服务（或双击桌面「启动 GPT Image Playground.command」）
 npm run typecheck        # TS 7 类型检查
 npm run lint             # ESLint（当前 0 error / 0 warning）
+npm run i18n:check       # 校验每个 t('…') 都有中文词条（改文案后必跑）
+npm run check            # lint + typecheck + i18n:check 三合一
 npm run build            # 生产构建（已验证可过）
 
 bash scripts/start-playground.sh   # 后台起服务 + 打开浏览器
