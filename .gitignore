@@ -41,7 +41,15 @@ yarn-error.log*
 next-env.d.ts
 
 # generated images
-generated-images/
+# 生成的图片默认不进仓库；这份仓库是"清空电脑前的完整备份"，所以显式放行图片本身，
+# 但回收站、临时文件和登记表缓存仍然排除。
+generated-images/*
+!generated-images/*.png
+!generated-images/*.jpg
+!generated-images/*.jpeg
+!generated-images/*.webp
+generated-images/.trash/
+generated-images/index.json.tmp
 
 # local run state (pid/log of the dev server started from the shortcut)
 .run/

@@ -1,0 +1,6 @@
+{
+  "settings": "{\"model\":\"gpt-image-2.5-sunburst\",\"quality\":\"high\",\"size\":\"auto\"}",
+  "view": "canvas",
+  "sidebarCollapsed": "false",
+  "skipDeleteConfirm": "false"
+}

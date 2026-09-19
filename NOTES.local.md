@@ -17,6 +17,36 @@ git checkout canvas-ui      # 回到画布版
 
 桌面还有一个压缩包快照：`gpt-image-playground-备份-浅色中文版-<日期>.tar.gz`（不含 node_modules）。
 
+## 项目位置与启动图标
+
+- 项目已从 `~/Desktop/gpt-image-playground` 移到 **`~/gpt-image-playground`**。
+  原因：macOS 把「桌面」列为受保护目录（TCC），未签名的 .app 没有磁盘访问授权，
+  双击图标时会以 `Operation not permitted` 失败。家目录根不受保护，图标即可正常工作。
+- **app 本体在 `~/Applications/GPT Image Playground.app`**（自建 bundle，非签名应用）。
+  双击 = 启动服务并打开浏览器；已在运行时只打开浏览器，不重启服务（可反复双击）。
+  也可以把它拖到程序坞。
+- 桌面上的 `GPT Image Playground` 是指向该 app 的 **Finder 别名**。
+  ⚠️ 必须是别名，**不要改成软链接**：软链接会让 macOS 把 app 判定为位于桌面（受 TCC 保护），
+  于是读项目文件时报 `Operation not permitted` —— 这正是历史上图标启动失败的原因。
+- app 内部结构：`Contents/MacOS/launcher`（bash 脚本，唯一逻辑）+ `Contents/Info.plist`
+  + `Contents/Resources/AppIcon.icns`。launcher 默认把项目定位到 `$HOME/gpt-image-playground`；
+  如果 .app 被放回项目根，则自动改用 .app 所在位置。
+- 图标源文件是 SF Symbol `photo.on.rectangle.angled` + 靛蓝渐变，由 `/tmp/make-icon.swift`
+  渲染（如已删除，按同样思路用 `swiftc` + AppKit 重画即可）。
+- 异常记录在 `~/Library/Logs/gpt-image-playground-launcher.log`；启动失败会弹警告框。
+- 停止服务不需要单独图标：画布左下角 **设置 → 服务 → 关闭服务**，
+  或命令行 `bash scripts/stop-playground.sh`。
+- 启动脚本 `scripts/start-playground.sh` 必须保持**可读**（`chmod 755`）。
+  一旦被改成 `711` 之类没有读权限的模式，启动器会报 `Operation not permitted`。
+
+### 排查图标启动失败
+
+```bash
+tail -30 ~/Library/Logs/gpt-image-playground-launcher.log   # 第一现场
+tail -30 .run/dev.log                                       # Next.js 自己的输出
+bash scripts/start-playground.sh                            # 绕过 app 直接验证脚本能否启动
+```
+
 ## 安全与运维注意点
 
 - **鉴权**：`src/lib/api-auth.ts` 的 `checkPassword()` 是唯一的密码校验入口（images / image-upload /
@@ -84,7 +114,7 @@ git checkout canvas-ui      # 回到画布版
 ## 常用命令
 
 ```bash
-npm run dev              # 开发服务（或双击桌面「启动 GPT Image Playground.command」）
+npm run dev              # 开发服务（或双击桌面「GPT Image Playground」图标）
 node scripts/test-multi-image.mjs <base-url> <key> [model] [图A] [图B]
                          # 探测某个端点是否真的转发多张参考图（编辑接口）
 npm run typecheck        # TS 7 类型检查

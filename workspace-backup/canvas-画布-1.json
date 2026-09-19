@@ -1,0 +1,563 @@
+{
+  "kind": "gpt-image-playground-canvas",
+  "version": 1,
+  "exportedAt": "2026-09-19T07:52:49.997Z",
+  "canvasName": "画布 1",
+  "originalId": "canvas-1789719950082-jcl7q",
+  "nodes": [
+    {
+      "id": "task-1789719271505-f13hn",
+      "type": "task",
+      "position": {
+        "x": 275.18485342019545,
+        "y": 166.04275244299674
+      },
+      "data": {
+        "kind": "image",
+        "prompt": "",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "upload-1789719271480-ig2x8t.png",
+            "path": "/api/image/upload-1789719271480-ig2x8t.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": null,
+        "usage": null,
+        "costDetails": null,
+        "createdAt": 1789719271505,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 305
+      }
+    },
+    {
+      "id": "task-1789719511965-o0yyq",
+      "type": "task",
+      "position": {
+        "x": 788.78705665434,
+        "y": 44.819281640588514
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "根据这个 PPT 封面的样式更改为：清澈的爱，只为中国\n——新时代军人的家国情怀与强军梦\n\n视觉：喀喇昆仑雪山或边防战士巡逻背影做背景。不要用明星式的人物特写，用背影或远景更庄重。但是要和原来的封面一样，有那种勾勒漫画感，但是不能太写实，浅一点",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "upload-1789719271480-ig2x8t.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789719684535-0.png",
+            "path": "/api/image/1789719684535-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 50119,
+        "usage": {
+          "input_tokens": 1622,
+          "input_tokens_details": {
+            "image_tokens": 1508,
+            "text_tokens": 114
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 2780
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0474,
+          "text_input_tokens": 114,
+          "image_input_tokens": 1508,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789719511966,
+        "viewIndex": 0,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 608
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789720549683-r63i4",
+      "type": "task",
+      "position": {
+        "x": 1401.3729351905629,
+        "y": 92.81807472752246
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "左下部分的姓名和分工清除",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "1789719684535-0.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789720680341-0.png",
+            "path": "/api/image/1789720680341-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 32178,
+        "usage": {
+          "input_tokens": 1534,
+          "input_tokens_details": {
+            "image_tokens": 1508,
+            "text_tokens": 26
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 2692
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0469,
+          "text_input_tokens": 26,
+          "image_input_tokens": 1508,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789720549683,
+        "viewIndex": 0,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 494
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789720747300-r9bzi",
+      "type": "task",
+      "position": {
+        "x": 2171.385785033023,
+        "y": -299.78010319342735
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "这张 PPT 封面里，“清澈的爱，只为中国”这几个字稍微美化一下。以及副标题，最后再整体美化下，不要太过高亮花哨，做微小调整就行",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "1789720680341-0.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789720925829-0.png",
+            "path": "/api/image/1789720925829-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 75675,
+        "usage": {
+          "input_tokens": 1560,
+          "input_tokens_details": {
+            "image_tokens": 1508,
+            "text_tokens": 52
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 2718
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0471,
+          "text_input_tokens": 52,
+          "image_input_tokens": 1508,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789720747300,
+        "viewIndex": 0,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 508
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789720960091-afrsi",
+      "type": "task",
+      "position": {
+        "x": 1903.273955578967,
+        "y": 350.55035985178347
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "这张 PPT 封面里，“清澈的爱，只为中国”这几个字稍微美化一下。以及副标题，最后再整体美化下，不要太过高亮花哨，做微小调整就行",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "1789720680341-0.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789724830623-0.png",
+            "path": "/api/image/1789724830623-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 33143,
+        "usage": {
+          "input_tokens": 1576,
+          "input_tokens_details": {
+            "image_tokens": 1508,
+            "text_tokens": 68
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 2734
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0471,
+          "text_input_tokens": 68,
+          "image_input_tokens": 1508,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789720960091,
+        "viewIndex": 0,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": true,
+      "measured": {
+        "width": 380,
+        "height": 508
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789725621513-2rx40",
+      "type": "task",
+      "position": {
+        "x": 2029.4656936441631,
+        "y": 1166.0169660260963
+      },
+      "data": {
+        "kind": "image",
+        "prompt": "",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "upload-1789725621495-r7dyp9.png",
+            "path": "/api/image/upload-1789725621495-r7dyp9.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": null,
+        "usage": null,
+        "costDetails": null,
+        "createdAt": 1789725621513,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 305
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789725630988-fs252",
+      "type": "task",
+      "position": {
+        "x": 2770.710297250186,
+        "y": 954.6135469693597
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "这个 PPT 封面，是我这次想做的 PPT 封面，我现在要改动这个目录页，你需要帮我生成一个新的目录页，在这个目录页的基础上进行改动：把原来目录里的4个标题，现在增加为5个。分别是家国情怀  →  强军实践  →  英烈事迹  →  理论升华  →  青年担当，排版参考原来的目录",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "upload-1789725621495-r7dyp9.png",
+          "1789724830623-0.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789725912287-0.png",
+            "path": "/api/image/1789725912287-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 37167,
+        "usage": {
+          "input_tokens": 3139,
+          "input_tokens_details": {
+            "image_tokens": 3016,
+            "text_tokens": 123
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 4297
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0595,
+          "text_input_tokens": 123,
+          "image_input_tokens": 3016,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789725630989,
+        "viewIndex": 0,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 568
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789725943651-uyggr",
+      "type": "task",
+      "position": {
+        "x": 3378.800168629463,
+        "y": 816.7151542790725
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "在这个目录的基础上，做一层美化。特别是左上角区域",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "1789725912287-0.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789725996572-0.png",
+            "path": "/api/image/1789725996572-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 35760,
+        "usage": {
+          "input_tokens": 1543,
+          "input_tokens_details": {
+            "image_tokens": 1508,
+            "text_tokens": 35
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 2701
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.047,
+          "text_input_tokens": 35,
+          "image_input_tokens": 1508,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789725943652,
+        "viewIndex": 0,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 494
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789726111034-r5e8w",
+      "type": "task",
+      "position": {
+        "x": 3379.3997840138254,
+        "y": 1330.12920572462
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "在这个目录的基础上，做一层美化。特别是左上角区域，但是这5个标题的背景要浅一点，颜色不能太深，否则标题就不太突出了。我需要标题显眼、突出。",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "1789725912287-0.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789726168526-0.png",
+            "path": "/api/image/1789726168526-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 37808,
+        "usage": {
+          "input_tokens": 1573,
+          "input_tokens_details": {
+            "image_tokens": 1508,
+            "text_tokens": 65
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 2731
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0471,
+          "text_input_tokens": 65,
+          "image_input_tokens": 1508,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789726111034,
+        "viewIndex": 0,
+        "sourceMissing": false,
+        "resultMissing": false
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 528
+      },
+      "dragging": false
+    }
+  ]
+}

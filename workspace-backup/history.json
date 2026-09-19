@@ -1,0 +1,1636 @@
+[
+  {
+    "timestamp": 1789746671769,
+    "images": [
+      {
+        "filename": "1789746671752-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 41654,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "给 ppt 封面左下角加上人员姓名和分工，分别是：\n马丙戌   演讲\n梁国胜   素材\n金子辰   视频\n郑佳豪   PPT制作\n不要加得很生硬。除此之外，不要对原图做任何修改。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0472,
+      "text_input_tokens": 85,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789743257607,
+    "images": [
+      {
+        "filename": "1789743257595-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 41805,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 5。大标题改为“青年担当”，小标题改为“把个人理想融入国家需要”，，其他部分均不需修改",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0397,
+      "text_input_tokens": 67,
+      "image_input_tokens": 576,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789743224791,
+    "images": [
+      {
+        "filename": "1789743224765-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 36889,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 4。大标题改为“理论升华”，小标题改为 强军梦与中国梦的内在逻辑”。，其他部分均不需修改",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0397,
+      "text_input_tokens": 70,
+      "image_input_tokens": 576,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789743174487,
+    "images": [
+      {
+        "filename": "1789743174474-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 35215,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 3。大标题改为“英烈事迹”，小标题改为“用生命写下的价值证明”，，其他部分均不需修改",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0397,
+      "text_input_tokens": 68,
+      "image_input_tokens": 576,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789743129161,
+    "images": [
+      {
+        "filename": "1789743129146-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 44042,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 3。大标题改为“英烈事迹”，小标题改为“用生命写下的价值证明”，，其他部分均不需修改",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0397,
+      "text_input_tokens": 68,
+      "image_input_tokens": 576,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789743031924,
+    "images": [
+      {
+        "filename": "1789743031912-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 35471,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 二。大标题改为“强军实践”，小标题改为“改革强军焕然一新”，两个词中间要有空格。，其他部分均不需修改",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0397,
+      "text_input_tokens": 75,
+      "image_input_tokens": 576,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789742958987,
+    "images": [
+      {
+        "filename": "1789742958976-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 35997,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参照这张图片，只修改一下大标题和小标题。大标题改为“强军实践”，小标题改为“改革强军焕然一新”，两个词中间要有空格。，其他部分均不需修改",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0397,
+      "text_input_tokens": 68,
+      "image_input_tokens": 576,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789742618275,
+    "images": [
+      {
+        "filename": "1789742618263-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 56439,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "根据这一张封面，来一张结语图，只需要把主标题和副标题移动到中间位置，稍微缩小一点，修改一下排版，再加个“谢谢”。但是，不要把中间位置的背景涂成很重的颜色，这样很突兀。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0472,
+      "text_input_tokens": 81,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789742414504,
+    "images": [
+      {
+        "filename": "1789742414493-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 49652,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "根据这一张封面，来一张结语图，只需要把主标题和副标题移动到中间位置，稍微缩小一点，修改一下排版，再加个“谢谢”。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0471,
+      "text_input_tokens": 58,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789742241431,
+    "images": [
+      {
+        "filename": "1789742241417-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 63096,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张，参考前面几页，特别是最后一张封面，因为这是最后一张 PPT\n结语\n版面：极简，黑底白字，三句逐行出现（动画依次淡入）。\n\n屏幕上\n\n山河已无恙，吾辈当自强。\n请党放心，强国有我。\n清澈的爱，只为中国。\n谢谢大家。\n\n视觉：背景回到封面",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.108,
+      "text_input_tokens": 178,
+      "image_input_tokens": 9048,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789742054140,
+    "images": [
+      {
+        "filename": "1789742054127-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 74088,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张，主题放在左上角，参考前面几页\n主题：青年启示：我们怎么做\n版面：四条清单，每条形如\"动词开头的一句话\"。\n\n屏幕上\n\n我们不一定穿军装，但我们都可以这样做\n① 有关注国防的意识 —— 知道戍边在哪里、知道谁在守着、知道国防不是别人的事 ② 尊崇军人、铭记英烈 —— 记住那些名字，也善待身边的退役军人和军属 ③ 把专业学习与国家需要结合 —— 芯片、航空、材料、医学、农学……每个专业都有国家在等着的岗位 ④ 把个人小我融入国家大我 —— 不是放弃自己，而是让自己的努力有更大的落点\n\n清澈的爱，从来不是军人的专属。\n\n视觉：四条用清单式排版，左侧用数字大标；最后一句单独一行加重。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0966,
+      "text_input_tokens": 299,
+      "image_input_tokens": 7540,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789741877598,
+    "images": [
+      {
+        "filename": "1789741877583-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 51546,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张，主题放在左上角，参考前面几页\n主题：新时代军人怎么做\n版面：四个词横排 + 底部口号。\n\n屏幕上\n\n做\"四有\"新时代革命军人\n有灵魂　有本事　有血性　有品德\n\n· 有灵魂 —— 信念坚定、听党指挥 · 有本事 —— 素质过硬、能打胜仗 · 有血性 —— 英勇顽强、不怕牺牲 · 有品德 —— 情趣高尚、品行端正\n\n把青春压进枪膛，把忠诚写在战位。\n\n视觉：四个词做四块竖牌，字号最大；底部口号用一条红带承载。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0842,
+      "text_input_tokens": 233,
+      "image_input_tokens": 6032,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789741368453,
+    "images": [
+      {
+        "filename": "1789741368434-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 55917,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张，主题放在左上角，参考前面几页\n主题：强军梦与中国梦\n版面：上三分之一历史反证，下三分之二关系图。\n\n屏幕上\n\n上｜先看一百八十年的答案\n\n1894年 甲午战争 → 北洋水师覆没 →《马关条约》割地赔款 \"富而不强\"，救不了国。 1950年 抗美援朝 → \"打得一拳开，免得百拳来\" 能战，方能止战。 今天 我们能安心读书、安心建设，是因为有人在喀喇昆仑、在南海、在远洋守着。 没有一个强大的军队，就没有一个安宁的国家。\n\n下｜三句话\n\n复制\n        中国梦\n   国家富强·民族振兴·人民幸福\n          ↑↓\n        强军梦\n   建设世界一流军队\n   是中国梦的【重要组成】和【战略支撑】\n① 中国梦引领强军梦 —— 强军的方向由国家的目标决定 ② 强军梦支撑中国梦 —— 没有安全，发展就是沙上之塔 ③ 家国情怀贯通二者 —— 它是把个人—军队—国家连起来的精神纽带\n\n\"中国梦是强国梦，对军队来说也是强军梦。\" —— 习近平，2013年3月11日出席解放军代表团全体会议时的讲话\n\n视觉：上面用一条时间轴（1894—1950—今天）；下面用双层同心圆或双向箭头图，\"重要组成\"\"战略支撑\"两个词必须加粗加色，这是标准表述，不能改。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0853,
+      "text_input_tokens": 455,
+      "image_input_tokens": 6032,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789741262671,
+    "images": [
+      {
+        "filename": "1789741262661-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 58719,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张，主题放在左上角，参考前面几页\n核心关系：强军梦与中国梦（论证页）\n版面：上三分之一历史反证，下三分之二关系图。\n\n屏幕上\n\n上｜先看一百八十年的答案\n\n1894年 甲午战争 → 北洋水师覆没 →《马关条约》割地赔款 \"富而不强\"，救不了国。 1950年 抗美援朝 → \"打得一拳开，免得百拳来\" 能战，方能止战。 今天 我们能安心读书、安心建设，是因为有人在喀喇昆仑、在南海、在远洋守着。 没有一个强大的军队，就没有一个安宁的国家。\n\n下｜三句话\n\n复制\n        中国梦\n   国家富强·民族振兴·人民幸福\n          ↑↓\n        强军梦\n   建设世界一流军队\n   是中国梦的【重要组成】和【战略支撑】\n① 中国梦引领强军梦 —— 强军的方向由国家的目标决定 ② 强军梦支撑中国梦 —— 没有安全，发展就是沙上之塔 ③ 家国情怀贯通二者 —— 它是把个人—军队—国家连起来的精神纽带\n\n\"中国梦是强国梦，对军队来说也是强军梦。\" —— 习近平，2013年3月11日出席解放军代表团全体会议时的讲话\n\n视觉：上面用一条时间轴（1894—1950—今天）；下面用双层同心圆或双向箭头图，\"重要组成\"\"战略支撑\"两个词必须加粗加色，这是标准表述，不能改。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0853,
+      "text_input_tokens": 461,
+      "image_input_tokens": 6032,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789741127050,
+    "images": [
+      {
+        "filename": "1789741127027-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 56214,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张，主题放在左上角，参考前面几页\n版面：三根柱子 + 底部一句话。\n主题：双线汇合：强军梦靠什么支撑。\n屏幕上\n\n强军梦的三个支撑\n① 物质支撑 — 装备、体制、战斗力 → 证明强军梦走在正确的道路上 ② 精神支撑 — 英烈、传统、家国情怀 → 回答为什么能一路走下来 ③ 制度支撑 — 党对军队的绝对领导、中国特色社会主义制度 → 保证始终不会走偏\n\n强军梦，是物质力量、精神力量、制度优势的统一。\n\n视觉：三根等高柱子（或三角结构图），底部汇聚成一个点，点上是\"强军梦\"。三色区分但同色系。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0722,
+      "text_input_tokens": 248,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789740985326,
+    "images": [
+      {
+        "filename": "1789740985303-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 66944,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "上面5位战士的框图背景改为简约风格，不要雪山。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.047,
+      "text_input_tokens": 37,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789740938159,
+    "images": [
+      {
+        "filename": "1789740938144-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 55257,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张：双线汇合：强军梦靠什么支撑\n版面：三根柱子 + 底部一句话。\n\n屏幕上\n\n强军梦的三个支撑\n① 物质支撑 — 装备、体制、战斗力 → 证明强军梦走在正确的道路上 ② 精神支撑 — 英烈、传统、家国情怀 → 回答为什么能一路走下来 ③ 制度支撑 — 党对军队的绝对领导、中国特色社会主义制度 → 保证始终不会走偏\n\n强军梦，是物质力量、精神力量、制度优势的统一。\n\n视觉：三根等高柱子（或三角结构图），底部汇聚成一个点，点上是\"强军梦\"。三色区分但同色系。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0721,
+      "text_input_tokens": 234,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789740819537,
+    "images": [
+      {
+        "filename": "1789740819519-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 47937,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张：双线汇合：强军梦靠什么支撑\n版面：三根柱子 + 底部一句话。\n\n屏幕上\n\n强军梦的三个支撑\n① 物质支撑 — 装备、体制、战斗力 → 证明强军梦走在正确的道路上 ② 精神支撑 — 英烈、传统、家国情怀 → 回答为什么能一路走下来 ③ 制度支撑 — 党对军队的绝对领导、中国特色社会主义制度 → 保证始终不会走偏\n\n强军梦，是物质力量、精神力量、制度优势的统一。\n\n视觉：三根等高柱子（或三角结构图），底部汇聚成一个点，点上是\"强军梦\"。三色区分但同色系。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0721,
+      "text_input_tokens": 234,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789740668403,
+    "images": [
+      {
+        "filename": "1789740668380-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 64381,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张：英烈线二：新时代丰碑（全篇最强页）\n版面：五行统一格式的表格或卡片，姓名+身份+年龄+一句原话。视觉上必须\"齐\"。\n\n屏幕上\n\n2020年6月 · 加勒万河谷\n祁发宝（团长）｜\"你们破坏共识，要承担一切后果！\" 陈红军（营长，33岁）｜\"党员干部跟我上！\" 陈祥榕（战士，18岁）｜\"清澈的爱，只为中国。\" 肖思远（战士，24岁）｜\"我们就是祖国的界碑。\" 王焯冉（战士，24岁）｜牺牲于渡河增援途中，生前写下入党申请书\n\n2021年2月，中央军委授予祁发宝\"卫国戍边英雄团长\"荣誉称号，追授陈红军\"卫国戍边英雄\"荣誉称号，追记陈祥榕、肖思远、王焯冉一等功。\n同一个时代的另外两个名字\n杜富国（排雷英雄战士）｜\"你退后，让我来。\"（2018年10月，云南麻栗坡） 张超（舰载机飞行员，29岁）｜为挽救战机放弃跳伞（2016年4月）\n\n提炼：清澈的爱，只为中国；寸土不让，青春许国。\n\n视觉：上面五位用边疆雪山做底图、白色文字，庄重；下面两位用一张小的正面照。\"18岁\"这个数字放大加色。必须要保证角色的长相要对得上，第四张图分别是他们的长相，第 5 张图是杜富国，第 6 张是张超",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0902,
+      "text_input_tokens": 509,
+      "image_input_tokens": 6614,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789740423736,
+    "images": [
+      {
+        "filename": "1789740423713-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 56619,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张：英烈线二：新时代丰碑（全篇最强页）\n版面：五行统一格式的表格或卡片，姓名+身份+年龄+一句原话。视觉上必须\"齐\"。\n\n屏幕上\n\n2020年6月 · 加勒万河谷\n祁发宝（团长）｜\"你们破坏共识，要承担一切后果！\" 陈红军（营长，33岁）｜\"党员干部跟我上！\" 陈祥榕（战士，18岁）｜\"清澈的爱，只为中国。\" 肖思远（战士，24岁）｜\"我们就是祖国的界碑。\" 王焯冉（战士，24岁）｜牺牲于渡河增援途中，生前写下入党申请书\n\n2021年2月，中央军委授予祁发宝\"卫国戍边英雄团长\"荣誉称号，追授陈红军\"卫国戍边英雄\"荣誉称号，追记陈祥榕、肖思远、王焯冉一等功。\n同一个时代的另外两个名字\n杜富国（排雷英雄战士）｜\"你退后，让我来。\"（2018年10月，云南麻栗坡） 张超（舰载机飞行员，29岁）｜为挽救战机放弃跳伞（2016年4月）\n\n提炼：清澈的爱，只为中国；寸土不让，青春许国。\n\n视觉：上面五位用边疆雪山做底图、白色文字，庄重；下面两位用一张小的正面照。\"18岁\"这个数字放大加色。必须要保证角色的长相要对得上，第四张图分别是他们的长相",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0794,
+      "text_input_tokens": 473,
+      "image_input_tokens": 5292,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789740313422,
+    "images": [
+      {
+        "filename": "1789740313403-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 59351,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张：英烈线二：新时代丰碑（全篇最强页）\n版面：五行统一格式的表格或卡片，姓名+身份+年龄+一句原话。视觉上必须\"齐\"。\n\n屏幕上\n\n2020年6月 · 加勒万河谷\n祁发宝（团长）｜\"你们破坏共识，要承担一切后果！\" 陈红军（营长，33岁）｜\"党员干部跟我上！\" 陈祥榕（战士，18岁）｜\"清澈的爱，只为中国。\" 肖思远（战士，24岁）｜\"我们就是祖国的界碑。\" 王焯冉（战士，24岁）｜牺牲于渡河增援途中，生前写下入党申请书\n\n2021年2月，中央军委授予祁发宝\"卫国戍边英雄团长\"荣誉称号，追授陈红军\"卫国戍边英雄\"荣誉称号，追记陈祥榕、肖思远、王焯冉一等功。\n同一个时代的另外两个名字\n杜富国（排雷英雄战士）｜\"你退后，让我来。\"（2018年10月，云南麻栗坡） 张超（舰载机飞行员，29岁）｜为挽救战机放弃跳伞（2016年4月）\n\n提炼：清澈的爱，只为中国；寸土不让，青春许国。\n\n视觉：上面五位用边疆雪山做底图、白色文字，庄重；下面两位用一张小的正面照。\"18岁\"这个数字放大加色。必须要保证角色的长相要对得上",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0732,
+      "text_input_tokens": 453,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789740136361,
+    "images": [
+      {
+        "filename": "1789740136338-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 58044,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张：英烈线二：新时代丰碑（全篇最强页）\n版面：五行统一格式的表格或卡片，姓名+身份+年龄+一句原话。视觉上必须\"齐\"。\n\n屏幕上\n\n2020年6月 · 加勒万河谷\n祁发宝（团长）｜\"你们破坏共识，要承担一切后果！\" 陈红军（营长，33岁）｜\"党员干部跟我上！\" 陈祥榕（战士，18岁）｜\"清澈的爱，只为中国。\" 肖思远（战士，24岁）｜\"我们就是祖国的界碑。\" 王焯冉（战士，24岁）｜牺牲于渡河增援途中，生前写下入党申请书\n\n2021年2月，中央军委授予祁发宝\"卫国戍边英雄团长\"荣誉称号，追授陈红军\"卫国戍边英雄\"荣誉称号，追记陈祥榕、肖思远、王焯冉一等功。\n同一个时代的另外两个名字\n杜富国（排雷英雄战士）｜\"你退后，让我来。\"（2018年10月，云南麻栗坡） 张超（舰载机飞行员，29岁）｜为挽救战机放弃跳伞（2016年4月）\n\n提炼：清澈的爱，只为中国；寸土不让，青春许国。\n\n视觉：上面五位用边疆雪山做底图、白色文字，庄重；下面两位用一张小的正面照。\"18岁\"这个数字放大加色。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0731,
+      "text_input_tokens": 442,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789739687360,
+    "images": [
+      {
+        "filename": "1789739687348-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 46758,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "歼-20这架飞机画得有点错了，要正式一点。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.047,
+      "text_input_tokens": 33,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789739471577,
+    "images": [
+      {
+        "filename": "1789739471553-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 91444,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张：英烈线一：历史丰碑（基因溯源）\n版面：上半页三个英雄，下半页王伟过渡，压缩在一页内。\n\n屏幕上\n\n立国之战：抗美援朝（1950-1953）\n黄继光｜上甘岭战役，用胸膛堵住敌人枪眼，21岁 邱少云｜潜伏中被燃烧弹击中，为不暴露目标一动不动，26岁 杨根思｜长津湖，抱起炸药包与敌同归于尽，28岁\n\n\"一不怕苦，二不怕死\"\n2001年4月1日 · 南海\n王伟：\"81192收到，我已无法返航，你们继续前进。\" 座机被撞，跳伞后失踪，33岁\n\n视觉：三张黑白历史照片并排，底部王伟用一张歼-8 或南海地图",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0723,
+      "text_input_tokens": 267,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789739417061,
+    "images": [
+      {
+        "filename": "1789739417038-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 54227,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，第二张图和第三张图是这次 PPT 的前两张：成就线二：科技强军与重大任务，标题要放到左上角，和前几页一致\n版面：上半\"装备\"，下半\"任务\"，底部结论。\n\n屏幕上\n\n装备｜看得见的硬实力\n\n国产航母（辽宁舰、山东舰、福建舰）｜ 歼-20 ｜ 运-20 ｜ 北斗三号全球组网 ｜ 新型导弹\n\n任务｜看得见的身影\n\n亚丁湾护航（2008年至今持续派出）｜ 联合国维和 ｜ 海外撤侨（2011利比亚、2015也门、2023苏丹）｜ 抗疫 ｜ 抗洪 ｜ 抗震\n\n结论：人民军队既是国家安全的柱石，也是维护世界和平的重要力量。\n\n视觉：装备用 3-4 张小图拼贴（统一色调整齐排列）；任务用一行关键词，可以配也门撤侨中女兵牵小女孩手的经典画面。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0602,
+      "text_input_tokens": 273,
+      "image_input_tokens": 3016,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789739304709,
+    "images": [
+      {
+        "filename": "1789739304697-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 51209,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，第二张图和第三张图是这次 PPT 的前两张：成就线二：科技强军与重大任务，标题要放到左上角，和前几页一致\n版面：上半\"装备\"，下半\"任务\"，底部结论。\n\n屏幕上\n\n装备｜看得见的硬实力\n\n国产航母（辽宁舰、山东舰、福建舰）｜ 歼-20 ｜ 运-20 ｜ 北斗三号全球组网 ｜ 新型导弹\n\n任务｜看得见的身影\n\n亚丁湾护航（2008年至今持续派出）｜ 联合国维和 ｜ 海外撤侨（2011利比亚、2015也门、2023苏丹）｜ 抗疫 ｜ 抗洪 ｜ 抗震\n\n结论：人民军队既是国家安全的柱石，也是维护世界和平的重要力量。\n\n视觉：装备用 3-4 张小图拼贴（统一色调整齐排列）；任务用一行关键词，可以配也门撤侨中女兵牵小女孩手的经典画面。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0602,
+      "text_input_tokens": 273,
+      "image_input_tokens": 3016,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789739132377,
+    "images": [
+      {
+        "filename": "1789739132357-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 61475,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，这些图是这次 PPT 的前面几张：英烈线一：历史丰碑（基因溯源）\n版面：上半页三个英雄，下半页王伟过渡，压缩在一页内。\n\n屏幕上\n\n立国之战：抗美援朝（1950-1953）\n黄继光｜上甘岭战役，用胸膛堵住敌人枪眼，21岁 邱少云｜潜伏中被燃烧弹击中，为不暴露目标一动不动，26岁 杨根思｜长津湖，抱起炸药包与敌同归于尽，28岁\n\n\"一不怕苦，二不怕死\"\n2001年4月1日 · 南海\n王伟：\"81192收到，我已无法返航，你们继续前进。\" 座机被撞，跳伞后失踪，33岁\n\n视觉：三张黑白历史照片并排，底部王伟用一张歼-8 或南海地图",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0723,
+      "text_input_tokens": 267,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789738921603,
+    "images": [
+      {
+        "filename": "1789738921592-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 41185,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "把这张图左上角的红旗从一颗星变成五星红旗。，还有就是保证字体清晰，字体不要被背景模糊掉了",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0471,
+      "text_input_tokens": 52,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789738843213,
+    "images": [
+      {
+        "filename": "1789738843202-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 44645,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "把这张图左上角的红旗从一颗星变成五星红旗。，还有就是保证字体清晰",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.047,
+      "text_input_tokens": 42,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789738677603,
+    "images": [
+      {
+        "filename": "1789738677581-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 49784,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "设计一页新的 PPT，第二张图和第三张图是这次 PPT 的前两张：成就线二：科技强军与重大任务\n版面：上半\"装备\"，下半\"任务\"，底部结论。\n\n屏幕上\n\n装备｜看得见的硬实力\n\n国产航母（辽宁舰、山东舰、福建舰）｜ 歼-20 ｜ 运-20 ｜ 北斗三号全球组网 ｜ 新型导弹\n\n任务｜看得见的身影\n\n亚丁湾护航（2008年至今持续派出）｜ 联合国维和 ｜ 海外撤侨（2011利比亚、2015也门、2023苏丹）｜ 抗疫 ｜ 抗洪 ｜ 抗震\n\n结论：人民军队既是国家安全的柱石，也是维护世界和平的重要力量。\n\n视觉：装备用 3-4 张小图拼贴（统一色调整齐排列）；任务用一行关键词，可以配也门撤侨中女兵牵小女孩手的经典画面。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0602,
+      "text_input_tokens": 259,
+      "image_input_tokens": 3016,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789738463247,
+    "images": [
+      {
+        "filename": "1789738463224-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 49844,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参考第一张的 PPT 设计，为你设计一页新的 PPT，第二张图和第三张图是这次 PPT 的前两张。。主要参考第一张图，也可以有很大的改变。成就线一：改革重塑，军队焕然一新\n版面：三个并列模块 + 底部结论。\n\n屏幕上\n\n一、体制重塑\n军委管总、战区主战、军种主建\n\n二、组织重构\n东部、南部、西部、北部、中部五大战区 陆军、海军、空军、火箭军、军事航天部队、网络空间部队、信息支援部队等新型军兵种结构\n\n三、路径明确\n政治建军、改革强军、科技强军、人才强军、依法治军\n\n结论：强军梦不是愿望，它有制度支撑、组织支撑。\n\n视觉：中间放一张五大战区示意图或新军兵种结构图（一图胜千言）。三个模块不必配图，字是主角",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0723,
+      "text_input_tokens": 278,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789738299541,
+    "images": [
+      {
+        "filename": "1789738299521-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 41840,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "把这张图中间的“二组织重构”这些字体居中，要位于红色块的中间才行。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.047,
+      "text_input_tokens": 45,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789738127388,
+    "images": [
+      {
+        "filename": "1789738127374-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 51852,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参考第一张的 PPT 设计，为你设计一页新的 PPT，第二张图和第三张图是这次 PPT 的前两张。。主要参考第一张图，也可以有很大的改变。成就线一：改革重塑，军队焕然一新\n版面：三个并列模块 + 底部结论。\n\n屏幕上\n\n一、体制重塑\n军委管总、战区主战、军种主建\n\n二、组织重构\n东部、南部、西部、北部、中部五大战区 陆军、海军、空军、火箭军、军事航天部队、网络空间部队、信息支援部队等新型军兵种结构\n\n三、路径明确\n政治建军、改革强军、科技强军、人才强军、依法治军\n\n结论：强军梦不是愿望，它有制度支撑、组织支撑。\n\n视觉：中间放一张五大战区示意图或新军兵种结构图（一图胜千言）。三个模块不必配图，字是主角",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0723,
+      "text_input_tokens": 278,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789737760640,
+    "images": [
+      {
+        "filename": "1789737760618-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 46068,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "我需要你帮我创建一页 PPT 页面。这个参考图是上一页 PPT，你可以参考它的风格，但是不要参考排版。，本页的内容是\n左上角主题：历史基因：家国一体，红色传承\n版面：左侧\"文化根\"，右侧\"红色脉\"，底部一条时间轴。\n\n屏幕上\n\n左｜文化根\n\n修身、齐家、治国、平天下 ——《礼记·大学》 中国人从来不是先有个人、再有国家，而是家国一体。\n\n右｜红色脉\n\n南昌起义→ 长征 → 抗日战争 → 解放战争 → 抗美援朝 一路走来，得出两条铁律： ① 党对军队绝对领导　② 人民军队为人民\n\n底｜时间轴：1927 — 1934 — 1937 — 1945 — 1949 — 1950\n\n视觉：时间轴用一条红线贯穿，节点用圆点。左\"文化\"用青灰，右\"红色\"用正红，形成古今呼应。注意生成的图片不要有过多的元素",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0482,
+      "text_input_tokens": 282,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789737598389,
+    "images": [
+      {
+        "filename": "1789737598365-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 39696,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "美化这一页 PPT，副标题的部分改为忠诚 担当 奉献，不要标点符号，三个词中间要有空格",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0471,
+      "text_input_tokens": 51,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  {
+    "timestamp": 1789730906705,
+    "images": [
+      {
+        "filename": "1789730906705-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 46842,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参考第一张的 PPT 设计，为你设计一页新的 PPT，第二张图和第三张图是这次 PPT 的前两张。。主要参考第一张图，比如，第一张图右下角的两个真实报告设计，你要参考上面的。但风格上，比如左上角的标题，要和后两张的位置一致。：左上角的标题是理论坐标：习近平强军思想\n版面：上方强军目标三块，中间二十大表述，底部金句。\n\n屏幕上\n\n党在新时代的强军目标\n听党指挥　能打胜仗　作风优良\n\n党的二十大报告\n如期实现建军一百年奋斗目标（2027年），加快把人民军队建成世界一流军队\n\n\"强国必须强军，军强才能国安。\"\n—— 习近平，庆祝中国人民解放军建军90周年大会讲话，2017年8月1日\n\n\n\n",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0722,
+      "text_input_tokens": 248,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789730815106,
+    "images": [
+      {
+        "filename": "1789730815106-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 45411,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "参考第一张的 PPT 设计，为你设计一页新的 PPT，第二张图和第三张图是这次 PPT 的前两张。。主要参考第一张图，但风格上，比如左上角的标题，要和后两张的位置一致。：左上角的标题是理论坐标：习近平强军思想\n版面：上方强军目标三块，中间二十大表述，底部金句。\n\n屏幕上\n\n党在新时代的强军目标\n听党指挥　能打胜仗　作风优良\n\n党的二十大报告\n如期实现建军一百年奋斗目标（2027年），加快把人民军队建成世界一流军队\n\n\"强国必须强军，军强才能国安。\"\n—— 习近平，庆祝中国人民解放军建军90周年大会讲话，2017年8月1日\n\n视觉：三块目标用并列色块；二十大表述用引文框；金句单独占底部一行，字号最大。每处引用下方用小字标出处。\n\n",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0723,
+      "text_input_tokens": 275,
+      "image_input_tokens": 4524,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789730660244,
+    "images": [
+      {
+        "filename": "upload-1789730660244-uw5jlo.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789729205937,
+    "images": [
+      {
+        "filename": "1789729205937-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 38774,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "我需要你帮我创建一页 PPT 页面。这个参考图是上一页 PPT，你可以参考它的风格，但是不要参考排版。，本页的内容是\n左上角主题：历史基因：家国一体，红色传承\n版面：左侧\"文化根\"，右侧\"红色脉\"，底部一条时间轴。\n\n屏幕上\n\n左｜文化根\n\n修身、齐家、治国、平天下 ——《礼记·大学》 中国人从来不是先有个人、再有国家，而是家国一体。\n\n右｜红色脉\n\n南昌起义→ 长征 → 抗日战争 → 解放战争 → 抗美援朝 一路走来，得出两条铁律： ① 党对军队绝对领导　② 人民军队为人民\n\n底｜时间轴：1927 — 1934 — 1937 — 1945 — 1949 — 1950\n\n视觉：时间轴用一条红线贯穿，节点用圆点。左\"文化\"用青灰，右\"红色\"用正红，形成古今呼应。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0482,
+      "text_input_tokens": 272,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789728985920,
+    "images": [
+      {
+        "filename": "1789728985920-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 40715,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "我需要你帮我创建一页 PPT 页面。这个参考图是上一页 PPT，你可以参考它的风格，但是不要参考排版。，本页的内容是\n左上角主题：历史基因：家国一体，红色传承\n版面：左侧\"文化根\"，右侧\"红色脉\"，底部一条时间轴。\n\n屏幕上\n\n左｜文化根\n\n修身、齐家、治国、平天下 ——《礼记·大学》 中国人从来不是先有个人、再有国家，而是家国一体。\n\n右｜红色脉\n\n南昌起义→ 长征 → 抗日战争 → 解放战争 → 抗美援朝 一路走来，得出两条铁律： ① 党对军队绝对领导　② 人民军队为人民\n\n底｜时间轴：1927 — 1934 — 1937 — 1945 — 1949 — 1950\n\n视觉：时间轴用一条红线贯穿，节点用圆点。左\"文化\"用青灰，右\"红色\"用正红，形成古今呼应。背景采用手绘勾勒，不要太细粒度",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0482,
+      "text_input_tokens": 285,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789728194415,
+    "images": [
+      {
+        "filename": "1789728194415-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789728071393,
+    "images": [
+      {
+        "filename": "1789728071393-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789727947982,
+    "images": [
+      {
+        "filename": "1789727947982-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789727589865,
+    "images": [
+      {
+        "filename": "1789727589865-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 38617,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "我需要你帮我创建一页 PPT 页面。这个参考图是上一页 PPT，你可以参考它的风格，但是不要参考排版。，本页的内容是\n左上角主题：历史基因：家国一体，红色传承\n版面：左侧\"文化根\"，右侧\"红色脉\"，底部一条时间轴。\n\n屏幕上\n\n左｜文化根\n\n修身、齐家、治国、平天下 ——《礼记·大学》 中国人从来不是先有个人、再有国家，而是家国一体。\n\n右｜红色脉\n\n南昌起义（1927）→ 长征 → 抗日战争 → 解放战争 → 抗美援朝 一路走来，得出两条铁律： ① 党对军队绝对领导　② 人民军队为人民\n\n底｜时间轴：1927 — 1934 — 1937 — 1945 — 1949 — 1950\n\n视觉：时间轴用一条红线贯穿，节点用圆点。左\"文化\"用青灰，右\"红色\"用正红，形成古今呼应。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0482,
+      "text_input_tokens": 276,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789727431126,
+    "images": [
+      {
+        "filename": "1789727431126-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 30571,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "这个图片是我的 PPT，我希望在它的左上角要加上一行主题，“内涵：新时代军人的家国情怀是什么”，只加文字就好，不要把样式改变了，不要过于炫彩",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0471,
+      "text_input_tokens": 66,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789727355326,
+    "images": [
+      {
+        "filename": "1789727355326-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789727205617,
+    "images": [
+      {
+        "filename": "1789727205617-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 40581,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "基于这张 PPT 的排版，帮我制作一页新的 PPT，注意，这个新的 PPT 和旧图片的主题完全不同。版面：三列卡片 + 底部一句话总结。\n\n屏幕上\n\n忠诚\t担当\t奉献\n听党指挥，绝对忠诚\t能打胜仗，守护和平\t舍小家为大家\n党对军队的绝对领导是根本原则，是人民军队的建军之本、强军之魂\t战斗力是唯一的根本的标准；宁可备而不战，不可战而无备\t关键时刻冲锋在前，把危险留给自己，把安宁留给人民\n一句话：家国情怀不是抽象的情感，而是把个人命运融入国家命运的选择。\n\n视觉：三列用\"忠诚/担当/奉献\"三个字做超大号水印，正文压在下面。底部总结句单独加色块，是全页的记忆点。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.048,
+      "text_input_tokens": 243,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789727126403,
+    "images": [
+      {
+        "filename": "upload-1789727126403-d93mqm.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789726638404,
+    "images": [
+      {
+        "filename": "1789726638404-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789726544483,
+    "images": [
+      {
+        "filename": "1789726544483-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789726168526,
+    "images": [
+      {
+        "filename": "1789726168526-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 37808,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "在这个目录的基础上，做一层美化。特别是左上角区域，但是这5个标题的背景要浅一点，颜色不能太深，否则标题就不太突出了。我需要标题显眼、突出。",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0471,
+      "text_input_tokens": 65,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789725996572,
+    "images": [
+      {
+        "filename": "1789725996572-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 35760,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "在这个目录的基础上，做一层美化。特别是左上角区域",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.047,
+      "text_input_tokens": 35,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789725912287,
+    "images": [
+      {
+        "filename": "1789725912287-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 37167,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "这个 PPT 封面，是我这次想做的 PPT 封面，我现在要改动这个目录页，你需要帮我生成一个新的目录页，在这个目录页的基础上进行改动：把原来目录里的4个标题，现在增加为5个。分别是家国情怀  →  强军实践  →  英烈事迹  →  理论升华  →  青年担当，排版参考原来的目录",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0595,
+      "text_input_tokens": 123,
+      "image_input_tokens": 3016,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789725621495,
+    "images": [
+      {
+        "filename": "upload-1789725621495-r7dyp9.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789725335373,
+    "images": [
+      {
+        "filename": "1789725335373-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789724830623,
+    "images": [
+      {
+        "filename": "1789724830623-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 33143,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "这张 PPT 封面里，“清澈的爱，只为中国”这几个字稍微美化一下。以及副标题，最后再整体美化下，不要太过高亮花哨，做微小调整就行",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0471,
+      "text_input_tokens": 68,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789720925829,
+    "images": [
+      {
+        "filename": "1789720925829-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 75675,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "这张 PPT 封面里，“清澈的爱，只为中国”这几个字稍微美化一下。以及副标题，最后再整体美化下，不要太过高亮花哨，做微小调整就行",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0471,
+      "text_input_tokens": 52,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789720794694,
+    "images": [
+      {
+        "filename": "1789720794694-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789720680341,
+    "images": [
+      {
+        "filename": "1789720680341-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 32178,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "左下部分的姓名和分工清除",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0469,
+      "text_input_tokens": 26,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789720608100,
+    "images": [
+      {
+        "filename": "1789720608100-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789720526938,
+    "images": [
+      {
+        "filename": "1789720526938-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789720415920,
+    "images": [
+      {
+        "filename": "1789720415920-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789719684535,
+    "images": [
+      {
+        "filename": "1789719684535-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 50119,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "根据这个 PPT 封面的样式更改为：清澈的爱，只为中国\n——新时代军人的家国情怀与强军梦\n\n视觉：喀喇昆仑雪山或边防战士巡逻背影做背景。不要用明星式的人物特写，用背影或远景更庄重。但是要和原来的封面一样，有那种勾勒漫画感，但是不能太写实，浅一点",
+    "mode": "edit",
+    "costDetails": {
+      "estimated_cost_usd": 0.0474,
+      "text_input_tokens": 114,
+      "image_input_tokens": 1508,
+      "image_output_tokens": 1158
+    },
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789719596388,
+    "images": [
+      {
+        "filename": "1789719596388-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789719452121,
+    "images": [
+      {
+        "filename": "1789719452121-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789719367870,
+    "images": [
+      {
+        "filename": "1789719367870-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789719271480,
+    "images": [
+      {
+        "filename": "upload-1789719271480-ig2x8t.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "model": "gpt-image-2.5-sunburst",
+    "rebuilt": true,
+    "knownFromCanvas": true
+  },
+  {
+    "timestamp": 1789719001540,
+    "images": [
+      {
+        "filename": "1789719001540-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789718928595,
+    "images": [
+      {
+        "filename": "1789718928595-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789712460636,
+    "images": [
+      {
+        "filename": "1789712460636-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789712229058,
+    "images": [
+      {
+        "filename": "1789712229058-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789711745784,
+    "images": [
+      {
+        "filename": "1789711745784-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789711602104,
+    "images": [
+      {
+        "filename": "1789711602104-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  },
+  {
+    "timestamp": 1789709228257,
+    "images": [
+      {
+        "filename": "1789709228257-0.png"
+      }
+    ],
+    "storageModeUsed": "fs",
+    "durationMs": 0,
+    "quality": "high",
+    "background": "auto",
+    "moderation": "auto",
+    "prompt": "",
+    "mode": "generate",
+    "costDetails": null,
+    "output_format": "png",
+    "rebuilt": true,
+    "knownFromCanvas": false
+  }
+]

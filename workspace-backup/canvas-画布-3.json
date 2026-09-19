@@ -1,0 +1,307 @@
+{
+  "kind": "gpt-image-playground-canvas",
+  "version": 1,
+  "exportedAt": "2026-09-19T07:52:50.000Z",
+  "canvasName": "画布 3",
+  "originalId": "canvas-1789742865868-99jsf",
+  "nodes": [
+    {
+      "id": "task-1789742866880-dwwc2",
+      "type": "task",
+      "position": {
+        "x": -8,
+        "y": 110
+      },
+      "data": {
+        "kind": "image",
+        "prompt": "",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "upload-1789742866873-l7ueot.png",
+            "path": "/api/image/upload-1789742866873-l7ueot.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": null,
+        "usage": null,
+        "costDetails": null,
+        "createdAt": 1789742866880
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 305
+      }
+    },
+    {
+      "id": "task-1789742869271-0mnie",
+      "type": "task",
+      "position": {
+        "x": 609.3751777804489,
+        "y": -37.78402112800123
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 二。大标题改为“强军实践”，小标题改为“改革强军焕然一新”，两个词中间要有空格。，其他部分均不需修改",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "upload-1789742866873-l7ueot.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789743031912-0.png",
+            "path": "/api/image/1789743031912-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 35471,
+        "usage": {
+          "input_tokens": 651,
+          "input_tokens_details": {
+            "image_tokens": 576,
+            "text_tokens": 75
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 1809
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0397,
+          "text_input_tokens": 75,
+          "image_input_tokens": 576,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789742869272,
+        "viewIndex": 0
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 528
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789743058886-2ev9o",
+      "type": "task",
+      "position": {
+        "x": 198.44179770816345,
+        "y": 602.6814710565448
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 3。大标题改为“英烈事迹”，小标题改为“用生命写下的价值证明”，，其他部分均不需修改",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "upload-1789742866873-l7ueot.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789743174474-0.png",
+            "path": "/api/image/1789743174474-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 35215,
+        "usage": {
+          "input_tokens": 644,
+          "input_tokens_details": {
+            "image_tokens": 576,
+            "text_tokens": 68
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 1802
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0397,
+          "text_input_tokens": 68,
+          "image_input_tokens": 576,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789743058886,
+        "viewIndex": 0
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 508
+      },
+      "dragging": false
+    },
+    {
+      "id": "task-1789743164353-mj1y7",
+      "type": "task",
+      "position": {
+        "x": 1079.375177780449,
+        "y": -37.78402112800123
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 4。大标题改为“理论升华”，小标题改为 强军梦与中国梦的内在逻辑”。，其他部分均不需修改",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "upload-1789742866873-l7ueot.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789743224765-0.png",
+            "path": "/api/image/1789743224765-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 36889,
+        "usage": {
+          "input_tokens": 646,
+          "input_tokens_details": {
+            "image_tokens": 576,
+            "text_tokens": 70
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 1804
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0397,
+          "text_input_tokens": 70,
+          "image_input_tokens": 576,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789743164353,
+        "viewIndex": 0
+      },
+      "selected": false,
+      "measured": {
+        "width": 380,
+        "height": 528
+      }
+    },
+    {
+      "id": "task-1789743192352-2onh6",
+      "type": "task",
+      "position": {
+        "x": 904.647934752959,
+        "y": 617.3700295674086
+      },
+      "data": {
+        "kind": "edit",
+        "prompt": "参照这张图片，只修改一下大标题和小标题，还有 Part 一改成 Part 5。大标题改为“青年担当”，小标题改为“把个人理想融入国家需要”，，其他部分均不需修改",
+        "params": {
+          "model": "gpt-image-2.5-sunburst",
+          "n": 1,
+          "size": "auto",
+          "customWidth": 1024,
+          "customHeight": 1024,
+          "quality": "high",
+          "background": "auto",
+          "outputFormat": "png",
+          "compression": 80,
+          "moderation": "auto"
+        },
+        "sourceFilenames": [
+          "upload-1789742866873-l7ueot.png"
+        ],
+        "maskFileName": null,
+        "images": [
+          {
+            "filename": "1789743257595-0.png",
+            "path": "/api/image/1789743257595-0.png"
+          }
+        ],
+        "status": "idle",
+        "error": null,
+        "durationMs": 41805,
+        "usage": {
+          "input_tokens": 643,
+          "input_tokens_details": {
+            "image_tokens": 576,
+            "text_tokens": 67
+          },
+          "output_tokens": 1158,
+          "output_tokens_details": {
+            "image_tokens": 1158,
+            "text_tokens": 0
+          },
+          "total_tokens": 1801
+        },
+        "costDetails": {
+          "estimated_cost_usd": 0.0397,
+          "text_input_tokens": 67,
+          "image_input_tokens": 576,
+          "image_output_tokens": 1158
+        },
+        "createdAt": 1789743192353,
+        "viewIndex": 0
+      },
+      "selected": true,
+      "measured": {
+        "width": 380,
+        "height": 528
+      },
+      "dragging": false
+    }
+  ]
+}
